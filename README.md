@@ -1,5 +1,7 @@
 🌍 Global Education Data Analysis
 
+EDA File google drive link - https://colab.research.google.com/drive/1jkxR8g_WN9wuBBE7ihBAz0YDNxmKler0?usp=sharing
+
 📌 Objective
 
 This project analyzes the relationship between:
